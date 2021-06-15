@@ -1,0 +1,1 @@
+:call GotoWin('hoge.txt')
